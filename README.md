@@ -20,9 +20,9 @@ Alternatively copy paste [dracula.conf](./dracula.conf) directly into
 
 <!-- This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/kitty/graphs/contributors). -->
 
-[![Keegan Carruthers-Smith](https://avatars0.githubusercontent.com/u/187831?v=3&s=70)](https://github.com/keegancsmith) |
---- |
-[Keegan Carruthers-Smith](https://github.com/keegancsmith) |
+| [![Keegan Carruthers-Smith](https://avatars0.githubusercontent.com/u/187831?v=3&s=70)](https://github.com/keegancsmith) | [![Daniel Mita](https://avatars0.githubusercontent.com/u/966706?v=3&s=70)](https://github.com/mienaikage) |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| [Keegan Carruthers-Smith](https://github.com/keegancsmith)                                                              | [Daniel Mita](https://github.com/mienaikage)                                                              |
 
 ## License
 
