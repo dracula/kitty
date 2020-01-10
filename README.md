@@ -2,19 +2,11 @@
 
 > A dark theme for [kitty](https://sw.kovidgoyal.net/kitty/).
 
-![Screenshot](https://user-images.githubusercontent.com/187831/46914836-1abccd80-cfa3-11e8-9d59-c0be8736175d.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
-``` shellsession
-$ cp dracula.conf ~/.config/kitty/
-$ echo "include dracula.conf" >> ~/.config/kitty/kitty.conf
-```
-
-Then reload kitty for the config to take affect.
-
-Alternatively copy paste [dracula.conf](./dracula.conf) directly into
-`kitty.conf`.
+All instructions can be found at [draculatheme.com/kitty](https://draculatheme.com/kitty).
 
 ## Team
 
